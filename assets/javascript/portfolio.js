@@ -40,7 +40,7 @@ $(document).ready(() => {
   const links = [
     {
       name: 'Discord',
-      link: 'https://discord.gg/3GRHt5dkMe',
+      link: 'https://discord.gg/dp4SUenpaV',
     },
     {
       name: 'Instagram',
@@ -70,7 +70,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Itzsly', 'sly', 'dev', 'FiveM', 'admin', '$', 'wow', 'itzslyyy']);
+  app.titleChanger(['Sopa', '$', 'wow', 'Sopita' ]);
   app.iconChanger(['assets/icons/roses/btc.png', 'assets/icons/roses/btc2.png']);
 });
 
